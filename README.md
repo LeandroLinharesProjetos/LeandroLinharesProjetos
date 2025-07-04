@@ -10,9 +10,9 @@ Sou um desenvolvedor Android Nativo com Backend Kotlin apaixonado por criar solu
 - **Ferramentas:** Git, GitHub, Docker, Figma 
 
 ### 🌱 Estou Aprendendo
-[cite_start]Atualmente, estou imerso na Formação Fullstack Android Nativo, explorando CI/CD com GitHub Actions e arquiteturas avançadas como MVI[cite: 449].
+Atualmente, estou imerso na Formação Fullstack Android Nativo, explorando CI/CD com GitHub Actions e arquiteturas avançadas como MVI.
 
 ### 📫 Como me Encontrar
--**LinkedIn:** https://linkedin.com/in/leandro-linhares-desenvolvedor
+- **LinkedIn:** https://linkedin.com/in/leandro-linhares-desenvolvedor
 - **Email:** leandrolinharestrabalho@gmail.com
 
